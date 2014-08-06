@@ -3,7 +3,7 @@
 ## TODO
 
 - reset canvas
-- add frame
+- add frame by drag and drop
 - draw on frame
 	- drawing options
 - export to gif
