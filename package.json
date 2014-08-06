@@ -1,0 +1,23 @@
+{
+  "name": "gifarator",
+  "version": "0.0.1",
+  "description": "I'm going to regret this",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "./node_modules/.bin/gulp"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "sole",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-html-replace": "^1.1.0",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.4.0"
+  }
+}
