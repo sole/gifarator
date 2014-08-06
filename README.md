@@ -2,7 +2,7 @@
 
 ## TODO
 
-- reset canvas, set size
+- reset canvas
 - add frame
 - draw on frame
 	- drawing options
