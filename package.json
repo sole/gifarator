@@ -13,6 +13,7 @@
   "author": "sole",
   "license": "MIT",
   "dependencies": {
+    "animated_gif": "0.0.3",
     "gulp": "^3.8.7",
     "gulp-browserify": "^0.5.0",
     "gulp-html-replace": "^1.1.0",

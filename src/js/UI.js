@@ -50,7 +50,11 @@ function UI() {
 
 		container.appendChild(canvasSizeDiv);
 
+		this.gifItButton = document.createElement('button');
+		container.appendChild(this.gifItButton);
+
 		this.setCanvasSize(320, 240);
+
 	};
 
 	this.setCanvasSize = function(width, height) {
